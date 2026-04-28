@@ -17,7 +17,7 @@ To identify key business trends and support data-driven decision-making.
 - Profit Margin: 21.37%
 
 ## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](images/dashboard.png)https://github.com/atumumichael/sales-performance-analysis-powerbi/blob/b51e34e5846e3c891e393f3d09ea1e56b21ce078/imagesdashboard.png.png
 
 ## 🔍 Key Insights
 - Technology category generated the highest revenue
